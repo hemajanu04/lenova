@@ -7,3 +7,5 @@ maven
 nexus
 docker
 kubernetes
+  lets learn all these
+  devops tools
